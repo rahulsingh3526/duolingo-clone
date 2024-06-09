@@ -1,4 +1,5 @@
 import { Header } from "./header";
+import { Footer } from "./footer";
 
 type Props = {
   children: React.ReactNode;
@@ -12,6 +13,7 @@ const MarketingLayout = ({ children }: Props) => {
         {" "}
         {children}
       </main>
+      <Footer />
     </div>
   );
 };
