@@ -8,6 +8,20 @@
       "when": 1718679670739,
       "tag": "0000_military_secret_warriors",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1722241565065,
+      "tag": "0001_dazzling_molten_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1723194414601,
+      "tag": "0002_hesitant_captain_marvel",
+      "breakpoints": true
     }
   ]
 }
